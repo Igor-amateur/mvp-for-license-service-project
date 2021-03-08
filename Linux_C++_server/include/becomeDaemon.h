@@ -1,0 +1,6 @@
+#ifndef BECOMEDAEMON_INCLUDED
+#define BECOMEDAEMON_INCLUDED
+
+int becomeDaemon();
+
+#endif // BECOMEDAEMON_INCLUDED
